@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomRandom", "CustomRandom.csproj", "{22D4E43B-97A7-B977-10F2-217867FA7289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomRandom.Editor", "CustomRandom.Editor.csproj", "{1B247A7B-D6CF-CE94-9BF7-6FA901468613}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22D4E43B-97A7-B977-10F2-217867FA7289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D4E43B-97A7-B977-10F2-217867FA7289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D4E43B-97A7-B977-10F2-217867FA7289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D4E43B-97A7-B977-10F2-217867FA7289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B247A7B-D6CF-CE94-9BF7-6FA901468613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B247A7B-D6CF-CE94-9BF7-6FA901468613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B247A7B-D6CF-CE94-9BF7-6FA901468613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B247A7B-D6CF-CE94-9BF7-6FA901468613}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
