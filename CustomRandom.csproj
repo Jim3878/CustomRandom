@@ -221,6 +221,8 @@
   <ItemGroup>
     <Compile Include="Assets\CheatDice\CheatRandom.cs" />
     <Compile Include="Assets\CheatDice\DigitizeWave.cs" />
+    <Compile Include="Assets\CheatDice\PunyonRoller\PunyonStuffRoll.cs" />
+    <Compile Include="Assets\Sample\graphic.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
